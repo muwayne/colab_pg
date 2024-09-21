@@ -2,6 +2,7 @@
 **/dataset/
 **/input/
 **/output/
+**/runs/
 
 # ==================
 # VS Code-specific
