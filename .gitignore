@@ -3,6 +3,7 @@
 **/input/
 **/output/
 **/runs/
+**/_build/
 
 # ==================
 # VS Code-specific
